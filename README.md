@@ -29,6 +29,10 @@ The Flask app will start running on `http://127.0.0.1:5000/`.
 
 - After submitting the receipt, you will receive a unique ID for that receipt.
 
+<div style="display: flex; justify-content: center;">
+  <img src="./post_method.png" alt="Post Method" />
+</div>
+
 - Send a GET request to `http://127.0.0.1:5000/receipts/{id}/points` (replace `{id}` with the actual receipt ID) to retrieve the points awarded for that receipt.
 
 6. Explore the API documentation:
