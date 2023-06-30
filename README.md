@@ -16,7 +16,7 @@ This is a Flask application that processes receipts and calculates points based 
  
 2. Navigate to the project directory: cd receipt-processing-app
   
-3. Install the required dependencies: pip install -r requirements.txt
+3. Install the required dependencies: pip install flask
  
 4. Start the Flask application: python fetch.py
 
