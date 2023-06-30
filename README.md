@@ -14,7 +14,7 @@ This is a Flask application that processes receipts and calculates points based 
 
 1. Clone the repository to your local machine: https://github.com/your-username/Fetch_Assessment.git
  
-2. Navigate to the project directory: cd Fetch_Assessment
+2. Navigate to the project directory: Fetch_Assessment
   
 3. Install the required dependencies: pip install flask
  
