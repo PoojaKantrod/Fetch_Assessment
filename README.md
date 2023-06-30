@@ -39,9 +39,6 @@ The Flask app will start running on `http://127.0.0.1:5000/`.
   <img src="./get_method.png" alt="Post Method" />
 </div>
 
-6. Explore the API documentation:
-
-- Open a web browser and visit `http://127.0.0.1:5000/docs` to view the API documentation and available endpoints.
 
 # Unit Test Cases
 
