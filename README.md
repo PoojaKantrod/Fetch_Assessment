@@ -12,7 +12,7 @@ This is a Flask application that processes receipts and calculates points based 
 
 ## Setup and Execution
 
-1. Clone the repository to your local machine: git clone https://github.com/your-username/receipt-processing-app.git
+1. Clone the repository to your local machine: https://github.com/your-username/Fetch_Assessment.git
  
 2. Navigate to the project directory: cd receipt-processing-app
   
