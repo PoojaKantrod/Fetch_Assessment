@@ -43,10 +43,23 @@ The Flask app will start running on `http://127.0.0.1:5000/`.
 
 - Open a web browser and visit `http://127.0.0.1:5000/docs` to view the API documentation and available endpoints.
 
+# Unit Test Cases
 
+## Case 1
 
+If the receipt json is not valid: The error message will be displayed as follows
 
+<div style="display: flex; justify-content: center;">
+  <img src="./post_exception.png" alt="Post Method" />
+</div>
 
+## Case 2
+
+If the receipt id is not valid: The error message will be displayed as follows
+
+<div style="display: flex; justify-content: center;">
+  <img src="./get_exception.png" alt="Post Method" />
+</div>
 
 
 
